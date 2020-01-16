@@ -1,0 +1,46 @@
+﻿  Source.cpp
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(369,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(369,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(369,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(369,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(369,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(465,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(465,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(465,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(465,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(465,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,19): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,19): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,19): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,19): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,19): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(513,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(513,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(513,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(513,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(513,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(578,12): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(606,12): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(704,18): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(789,46): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  xDR_Challenge_evaluation_v2019.vcxproj -> C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\x64\Debug\xDR_Challenge_evaluation_v2019.exe

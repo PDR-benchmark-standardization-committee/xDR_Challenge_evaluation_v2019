@@ -1,0 +1,98 @@
+﻿  Source.cpp
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(322,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(332,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(342,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(360,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(361,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(361,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(361,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(361,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(361,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(362,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(368,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(368,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(368,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(368,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(368,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(386,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(405,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(415,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(424,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(436,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(456,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(457,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(457,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(457,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(457,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(457,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(458,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(464,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(464,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(464,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(464,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(464,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(482,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(497,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(509,19): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(509,19): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(509,19): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(509,19): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(509,19): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(510,19): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(511,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         with
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         [
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:             _Ty=double
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(512,22): warning C4244:         ]
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(519,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(519,71): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(524,31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(524,87): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(546,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(546,71): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(551,31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(551,87): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(577,12): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(579,13): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(579,51): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(584,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(584,67): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(605,12): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(607,13): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(607,51): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(612,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(612,67): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(643,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(670,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(690,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(703,18): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(717,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(722,10): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(745,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(747,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(806,40): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(817,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(823,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(860,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(864,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(894,40): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(905,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(911,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(935,40): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(949,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\xDR_Challenge_evaluation_v2019\Source.cpp(953,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+Source.obj : error LNK2019: 未解決の外部シンボル "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z) が関数 "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) で参照されました。
+Source.obj : error LNK2019: 未解決の外部シンボル "void __cdecl cv::error(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char const *,char const *,int)" (?error@cv@@YAXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBD1H@Z) が関数 "public: class cv::Vec<unsigned char,3> * __thiscall cv::Mat::ptr<class cv::Vec<unsigned char,3> >(int)" (??$ptr@V?$Vec@E$02@cv@@@Mat@cv@@QAEPAV?$Vec@E$02@1@H@Z) で参照されました。
+Source.obj : error LNK2019: 未解決の外部シンボル "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ) が関数 "public: void __thiscall cv::Mat::release(void)" (?release@Mat@cv@@QAEXXZ) で参照されました。
+Source.obj : error LNK2019: 未解決の外部シンボル "class cv::Mat __cdecl cv::imread(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?imread@cv@@YA?AVMat@1@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) が関数 "class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > > __cdecl Obstacle_data(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Obstacle_data@@YA?AV?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@0@Z) で参照されました。
+C:\Users\intern\Documents\opencv\build\x64\vc15\lib\opencv_world410d.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Users\intern\Documents\shimomura\xDR_Challenge_2019\xDR_Challenge_evaluation_v2019\Debug\xDR_Challenge_evaluation_v2019.exe : fatal error LNK1120: 4 件の未解決の外部参照
