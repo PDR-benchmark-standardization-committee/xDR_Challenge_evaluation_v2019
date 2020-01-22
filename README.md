@@ -8,7 +8,9 @@ This version is 1.0
 Release!
 
 ## How to use this tool
-1. Download zip.
+1. Download [zip file](https://github.com/PDR-benchmark-standardization-committee/xDR_Challenge_evaluation_v2019/releases).
+2. Copy trajectory data files to ~/submit_data/Manufacturing/data1 or ~/submit_data/Restaurant/data1
+3. Run xDR_Challenge_evaluation_v2019.exe
 
 ## License
 Copyright (c) 2020 [Ryo Shimomura](https://github.com/ximomoi) and [PDR benchmark standardization committee](https://ja-jp.facebook.com/pdr.bms/).  
